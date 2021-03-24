@@ -220,7 +220,7 @@ class _ProfilePageState extends State<ProfilePage> {
                 children: [
                   SizedBox(
                     width: 155,
-                    height: 60,
+                    height: 50,
                     child: ElevatedButton(
                       onPressed: () {
                         Navigator.push(
@@ -241,7 +241,7 @@ class _ProfilePageState extends State<ProfilePage> {
                   ),
                   SizedBox(
                     width: 155,
-                    height: 60,
+                    height: 50,
                     child: ElevatedButton(
                       onPressed: () {
                         Navigator.push(
