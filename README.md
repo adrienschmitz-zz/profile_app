@@ -43,7 +43,7 @@
  
  
  
-### Autor
+### Author
 ---
 
  <img style="border-radius: 50%;" src="./assets/screenshots/adrien_logo.png" alt=""/>
