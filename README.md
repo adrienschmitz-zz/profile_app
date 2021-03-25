@@ -6,6 +6,7 @@
 
 <a href="https://github.com/adrienschmitz/profile_app/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/adrienschmitz/profile_app"></a>
 
+
 <h4 align="center"> 
 	🚧   🚀 Completed  🚧
 </h4>
@@ -44,7 +45,8 @@
  
 ### Autor
 ---
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/68816361?s=60&v=4" width="100px;" alt=""/>
+
+ <img style="border-radius: 50%;" src="./assets/screenshots/adrien_logo.png" alt=""/>
  <br />
  <sub><b>Adrien Schmitz/b></sub></a>
 
