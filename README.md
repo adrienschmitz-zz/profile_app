@@ -33,7 +33,10 @@
 </h1></td>
     <td><h1 align="center">
   <img alt="School" title="School" src="./assets/screenshots/screenshot-2021-03-24_15.19.53.896.png" width="320" height="568" />
-</h1></td> 
+</h1>
+	</tr>
+	  <tr>
+	  </td> 
     <td><h1 align="center">
   <img alt="Work" title="Work" src="./assets/screenshots/screenshot-2021-03-24_15.20.03.153.png" width="320" height="568" />
 </h1></td>
